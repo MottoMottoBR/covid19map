@@ -1,6 +1,7 @@
 import { createGlobalStyle } from 'styled-components'
 import CovidImg from '../../assets/images/covid.jpg'
 
+
 const globalStyle = createGlobalStyle`
 *{
     outline: none; 

@@ -1,3 +1,3 @@
-import Button from "../../node_modules/@material-ui/core/index";
+import Button from '@material-ui/core/Button'
 
 export default Button

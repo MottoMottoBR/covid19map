@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 const path = 'https://coronavirus-19-api.herokuapp.com/countries'
 
 const headers = {
@@ -13,7 +14,5 @@ function getCountry(country) {
 
 }
 
-// eslint-disable-next-line import/no-anonymous-default-export
-export default {
-    getCountry
-}
+
+export default { getCountry }

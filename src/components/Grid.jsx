@@ -1,3 +1,3 @@
-import { Grid } from "../../node_modules/@material-ui/core/index";
+import Grid from '@material-ui/core/Grid'
 
 export default Grid

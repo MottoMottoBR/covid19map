@@ -1,4 +1,3 @@
-import { Select } from "../../node_modules/@material-ui/core/index";
-
+import Select from '@material-ui/core/Select'
 
 export default Select

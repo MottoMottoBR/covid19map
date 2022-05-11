@@ -1,3 +1,3 @@
-import { Skeleton } from "../../node_modules/@material-ui/lab/index";
+import Skeleton from '@material-ui/lab/Skeleton'
 
 export default Skeleton
